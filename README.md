@@ -1,6 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-## NAME : MONISH R
-## REG NO : 212223220061
+## NAME : S.LEELATHESH
+## REG NO : 212221045003
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
